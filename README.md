@@ -1,1 +1,1 @@
-Smart Parking App
+Car Rantal App
